@@ -1,0 +1,15 @@
+{
+  "name": "first-try",
+  "version": "1.0.0",
+  "description": "First NodeJS tutorial",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ulugbek Nazarov",
+  "license": "ISC",
+  "dependencies": {
+    "meaning-of-life": "^1.0.0",
+    "random-animal-name-generator": "^0.1.1"
+  }
+}
